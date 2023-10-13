@@ -17,6 +17,9 @@ jupyterlite-core
 # add the jupyterlab-night theme
 jupyterlab-night
 
+#Open Links
+jupyterlab-open-url-parameter
+
 # SQLite kernel (optional)
 jupyterlite-xeus-sqlite==0.2.1
 # P5 kernel (optional)
