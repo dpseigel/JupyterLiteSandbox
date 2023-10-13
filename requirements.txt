@@ -16,7 +16,6 @@ jupyterlab-language-pack-zh-CN
 jupyterlite-core
 # add the jupyterlab-night theme
 jupyterlab-night
-jupyterlab-light
 
 # SQLite kernel (optional)
 jupyterlite-xeus-sqlite==0.2.1
